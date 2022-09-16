@@ -18,7 +18,7 @@ https://miro.com/app/board/uXjVPXXLP4A=/?share_link_id=878553939614
     
     input -> tabela de [turmas ,facilitadores,supervisores,alunos,calls] como body da requisição da função
     
-    Ação -> Busca de todas as tabelas criadas no Banco de dados. Depois é criado várias rotas com métodos HTTP diferentes, tendo como rota principal, um GET de todas               as tabelas
+    Ação -> Busca de todas as tabelas criadas no Banco de dados. Depois é criado várias rotas com métodos HTTP diferentes, tendo como rota principal, um GET de todas   as tabelas
     
     Output ->Visualização de todas as features do sistema na Tela de Administração do Sistema
     
