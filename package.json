@@ -4,21 +4,12 @@
   "description": "",
   "main": "adm-sistema.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/contrastguy/EscolaDNC-Case-Tecnico.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/contrastguy/EscolaDNC-Case-Tecnico/issues"
-  },
-  "homepage": "https://github.com/contrastguy/EscolaDNC-Case-Tecnico#readme",
   "dependencies": {
-    "node": "^18.9.0",
     "pg": "^8.8.0"
   }
 }
